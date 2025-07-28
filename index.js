@@ -12,11 +12,13 @@ const config = {
   jsxSingleQuote: false,
   trailingComma: "es5",
   bracketSpacing: true,
+  objectWrap: "preserve",
   bracketSameLine: false,
   arrowParens: "always",
   proseWrap: "preserve",
   endOfLine: "lf",
   singleAttributePerLine: false,
+  experimentalOperatorPosition: "start",
 };
 
 export default config;
