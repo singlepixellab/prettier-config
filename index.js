@@ -10,7 +10,7 @@ const config = {
   singleQuote: false,
   quoteProps: "consistent",
   jsxSingleQuote: false,
-  trailingComma: "es5",
+  trailingComma: "all",
   bracketSpacing: true,
   objectWrap: "preserve",
   bracketSameLine: false,
@@ -18,7 +18,6 @@ const config = {
   proseWrap: "preserve",
   endOfLine: "lf",
   singleAttributePerLine: false,
-  experimentalOperatorPosition: "start",
 };
 
 export default config;
